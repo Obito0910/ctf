@@ -1,2 +1,10 @@
-hint:
+Challenge # 01:
+Discription For penguin.png
+Primary: Steganography
+Secondary: Cryptography, Forensics
+format : AKT{....}
+
+hint for penguin.png:
 Some passwords are too weak to survive in the mountains full of snow.
+
+=============================================================
